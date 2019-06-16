@@ -9,5 +9,7 @@
 `npm add tslint -D` <br>
 `npx tslint --init` <br>
 
+**RxJs** <br>
+`npm add rxjs` <br>
 
 
